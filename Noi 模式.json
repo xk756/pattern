@@ -1,7 +1,7 @@
 {
   "name": "Noi modes",
   "version": "0.1.11",
-  "sync": "https://github.com/xk756/pattern/Noi 模式.json",
+  "sync": "https://github.com/xk756/pattern/blob/main/Noi 模式.json",
   "modes": [
     // 基础分类（国际版 + 国内版）
     {
