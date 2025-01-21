@@ -1,8 +1,8 @@
 {
-  "name": "Noi 模式",
+  "name": "Noi modes",
   "version": "0.1.11",
-  "sync": "https://github.com/a1f6c39f-172e-4d73-8bfa-f03a9d4cc342"，
-  "模式": [
+  "sync": "https://github.com/xk756/pattern/Noi 模式.json",
+  "modes": [
     // 基础分类（国际版 + 国内版）
     {
       "id": "noi@ai",
