@@ -1,7 +1,7 @@
 {
   "name": "Noi 模式",
   "version": "0.1.11",
-  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.merged.json",
+  "sync": "blob:https://github.com/a1f6c39f-172e-4d73-8bfa-f03a9d4cc342",
   "模式": [
     // 基础分类（国际版 + 国内版）
     {
